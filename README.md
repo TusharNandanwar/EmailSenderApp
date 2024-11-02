@@ -23,8 +23,8 @@ Backend (Spring Boot)
 
 ##### Clone the repository:
 ```
-git clone https://github.com/Avinash4231/EmailSender-Application-Using-ReactJS-and-SpringBoot.git
-cd EmailSender-Application-Using-ReactJS-and-SpringBoot/EmailSenderApp
+git clone https://github.com/TusharNandanwar/EmailSenderApp.git
+cd /EmailSenderApp
 ```
 
 ##### Configure the SMTP Configuration
