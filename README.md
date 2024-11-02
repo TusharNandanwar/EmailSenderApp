@@ -8,9 +8,9 @@ Email Composition: Compose and send emails with a user-friendly interface.
 Email Tracking: Monitor the status of sent emails.
 Responsive Design: Accessible from both desktop and mobile devices.
 ### Technologies Used
-Frontend: ReactJS, HTML, CSS, JavaScript
-Backend: Spring Boot, Java
-Other Tools: Maven, npm, Axios
+-> Frontend: ReactJS, HTML, CSS, JavaScript.
+-> Backend: Spring Boot, Java.
+-> Other Tools: Maven, npm, Axios.
 ### Prerequisites
 Node.js
 Java 8 or higher
